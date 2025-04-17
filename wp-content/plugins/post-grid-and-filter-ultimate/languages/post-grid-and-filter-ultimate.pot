@@ -1,0 +1,309 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post grid and filter ultimate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-24 11:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/admin/pgafu-how-it-work.php:151
+msgid "10 Designs for Post Grid, 10 Designs for Post Grid Filter."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:168
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:152
+msgid "2 - (Post Grid Shortcode, Post Filter Shortcode)"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:153
+msgid "35+ Shortcode Parameters"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:136
+msgid "5 stars!"
+msgstr ""
+
+#: includes/shortcode/pgafu-postgrid-filter.php:86
+msgid "All"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:81
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:49
+msgid "Bundle Deal"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:49
+msgid "Bundle Deal - Post Grid and Filter"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:94
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:162
+msgid "Custom Read More link for Post."
+msgstr ""
+
+#: includes/pgafu-functions.php:150 includes/pgafu-functions.php:180
+msgid "Design 1"
+msgstr ""
+
+#: includes/pgafu-functions.php:151 includes/pgafu-functions.php:181
+msgid "Design 2"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:163
+msgid "Display Desired Post."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:160
+msgid "Divi Page Builder Native Supports"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:135
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:91
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:156
+msgid "Drag & Drop Post Order Change."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display post grid on your website with or without "
+"categoryies filter. Also work with Gutenberg shortcode block."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:159
+msgid "Elementor, Beaver and SiteOrigin Page Builder Supports"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:136
+msgid "Enjoyed this plugin? You can help by rate this plugin "
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:276
+msgid "Essential Plugin Blocks"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:165
+msgid "Exclude Some Categories."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:164
+msgid "Exclude Some Posts."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:167
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:161
+msgid "Fusion Page Builder Native Supports"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:57
+msgid "Geeting Started with Post Slider"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:136
+msgid "Go Premium"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:136
+msgid "go-premium"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:171
+msgid "Grab Now"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:157
+msgid "Gutenberg Block Supports"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:105
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:132
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:114
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:14
+#: includes/admin/pgafu-how-it-work.php:48
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:69
+msgid "How Shortcode Works"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugin/post-grid-filter-ultimate/"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:121
+msgid "ID:"
+msgstr ""
+
+#: post-grid-and-filter-ultimate.php:203
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/shortcode/pgafu-post-grid.php:176
+msgid "Next"
+msgstr ""
+
+#: includes/pgafu-functions.php:136
+msgid "Next »"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:85
+msgid "Post Filter Shortcode, which provide you to use 4 designs."
+msgstr ""
+
+#: includes/shortcode/pgafu-post-grid.php:29
+#: includes/shortcode/pgafu-post-grid.php:37
+#: includes/shortcode/pgafu-postgrid-filter.php:29
+#: includes/shortcode/pgafu-postgrid-filter.php:37
+msgid "Post Grid - Shortcode"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:44
+msgid "Post Grid And Filter"
+msgstr ""
+
+#. Name of the plugin
+msgid "Post grid and filter ultimate"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Post grid and filter ultimate with "
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:84
+msgid "Post Grid Shortcode."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:166
+msgid "Post Order / Order By Parameters"
+msgstr ""
+
+#: includes/shortcode/pgafu-post-grid.php:177
+msgid "Previous"
+msgstr ""
+
+#: templates/filter/design-1.php:59 templates/filter/design-2.php:61
+#: templates/grid/design-1.php:60 templates/grid/design-2.php:61
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:155
+msgid "Shortcode Generator"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:73
+msgid "Step-1. Create a page like Latest Post OR add the shortcode in a page."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:118
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:61
+msgid ""
+"Step-1. This plugin create a tab under \"Post grid and filter ultimate – How "
+"It Works\"."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:74
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:119
+msgid ""
+"Step-2. Search \"Post Grid/Post Filter\" keyword in the gutenberg block list."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:62
+msgid ""
+"Step-2. This plugin display WordPres default standard POST with a simple "
+"shortcode."
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:120
+msgid ""
+"Step-3. Add any block of Post Grid/Post Filter and you will find its "
+"relative options on the right end side."
+msgstr ""
+
+#: post-grid-and-filter-ultimate.php:202
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:48
+msgid "Upgrade To Premium "
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:48
+msgid "Upgrade To PRO - Post Grid and Filter"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:147
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/class-pgafu-admin.php:135
+msgid "View Documentation"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:154
+msgid "WP Templating Features"
+msgstr ""
+
+#: includes/admin/pgafu-how-it-work.php:158
+msgid "WPBakery Page Builder Supports"
+msgstr ""
+
+#: includes/pgafu-functions.php:135
+msgid "« Previous"
+msgstr ""
